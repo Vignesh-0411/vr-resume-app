@@ -1,0 +1,69 @@
+# Dart and Flutter generated files
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Generated files
+*.freezed.dart
+*.g.dart
+*.mocks.dart
+
+# IDE settings
+.idea/
+.vscode/
+
+# Android local configuration
+android/local.properties
+android/key.properties
+android/.gradle/
+android/captures/
+android/.cxx/
+android/**/build/
+
+# iOS generated files
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS generated files
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# Windows generated files
+windows/flutter/ephemeral/
+
+# Linux generated files
+linux/flutter/ephemeral/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Signing keys and certificates
+*.jks
+*.keystore
+*.p12
+*.pem
+
+# Test and coverage output
+coverage/
