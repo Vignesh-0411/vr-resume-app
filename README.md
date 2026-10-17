@@ -35,7 +35,7 @@ Prerequisites
 
 🔗 Live Demo
 
-[View Live Project](https://vignesh-0411.github.io/vr-resume-app/)
+[View Project](https://vignesh-0411.github.io/vr-resume-app/)
 
 📸 Screenshots
 
